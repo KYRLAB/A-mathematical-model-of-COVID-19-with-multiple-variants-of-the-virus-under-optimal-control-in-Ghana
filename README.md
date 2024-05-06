@@ -34,7 +34,7 @@ If you use model in your work or conference, please cite us as follows
 ```
 
 ## Contact
-**Author**: Youngho-Min
-**Email**: mathmyh@khu.ac.kr
+- **Author**: Youngho-Min
+- **Email**: mathmyh@khu.ac.kr
 
 ---
