@@ -1,7 +1,10 @@
 ---
+
 # A-mathematical-model-of-COVID-19-with-multiple-variants-of-the-virus-under-optimal-control-in-Ghana
+
 This project is provided to share the data and utility code for the paper "A mathematical model of COVID-19 with multiple variants of the virus under optimal control in Ghana," published in PLOS ONE.
 Project Overview and Purpose
+
 ---
 
 ## Installation and Usage
@@ -20,8 +23,8 @@ This code is written in MATLAB. To utilize the code, you need to have the Optimi
 If you use model in your work or conference, please cite us as follows
 
 ```
-@misc{Youngho-Min-et al-2023,
-    author = {Youngho Min, Young Rock Kim, and Young Rock Kim},
+@misc{Youngho-Min-et al-2024,
+    author = {Youngho Min, Young Rock Kim, and Joy Nana Okogun-Odompley},
     title = {A-mathematical-model-of-COVID-19-with-multiple-variants-of-the-virus-under-optimal-control-in-Ghana},
     year = {2024},
     publisher = {GitHub},
@@ -31,6 +34,7 @@ If you use model in your work or conference, please cite us as follows
 ```
 
 ## Contact
+**Author**: Youngho-Min
 **Email**: mathmyh@khu.ac.kr
 
 ---
